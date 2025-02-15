@@ -2,6 +2,12 @@
 
 A resume builder app
 
+## Figma Design
+
+Link : [https://www.figma.com/design/EWpTz1rmbiJGvQttdLjhFG/resume-builder?m=auto&t=dymlu2H3OtFVi5F4-1](https://www.figma.com/design/EWpTz1rmbiJGvQttdLjhFG/resume-builder?m=auto&t=dymlu2H3OtFVi5F4-1)
+
+## App Setup Steps 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
